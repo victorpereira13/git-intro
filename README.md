@@ -2,7 +2,7 @@
 Usaremos este projeto para aprender os comandos básicos do git. Sua missão é criar um Pull Request contendo um site que apresenta o seu currículo.
 Para isso, você deverá:
 
-1. Escolher um [template](https://templateflip.com/material-design-resume-templates/).
+1. Escolher um [template](http://trendytheme.net/20-best-free-html-resume-templates-to-download/).
 2. Fazer um fork deste projeto
 3. Clonar o seu fork no cloud9
 4. Baixar o template no cloud9
